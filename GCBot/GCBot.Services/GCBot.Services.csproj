@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\GCBot.Core\GCBot.Core.csproj" />
+    <ProjectReference Include="..\GCBot.Data\GCBot.Data.csproj" />
+  </ItemGroup>
+
 </Project>

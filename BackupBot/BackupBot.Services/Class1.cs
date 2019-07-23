@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GCBot.Services
+namespace BackupBot.Services
 {
     public class Class1
     {

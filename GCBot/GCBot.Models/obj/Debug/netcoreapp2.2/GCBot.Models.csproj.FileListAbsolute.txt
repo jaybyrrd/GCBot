@@ -1,0 +1,5 @@
+C:\Users\julia\Source\Repos\GCBot\GCBot\GCBot.Models\bin\Debug\netcoreapp2.2\GCBot.Models.deps.json
+C:\Users\julia\Source\Repos\GCBot\GCBot\GCBot.Models\bin\Debug\netcoreapp2.2\GCBot.Models.dll
+C:\Users\julia\Source\Repos\GCBot\GCBot\GCBot.Models\obj\Debug\netcoreapp2.2\GCBot.Models.csproj.CoreCompileInputs.cache
+C:\Users\julia\Source\Repos\GCBot\GCBot\GCBot.Models\obj\Debug\netcoreapp2.2\GCBot.Models.AssemblyInfoInputs.cache
+C:\Users\julia\Source\Repos\GCBot\GCBot\GCBot.Models\obj\Debug\netcoreapp2.2\GCBot.Models.AssemblyInfo.cs
