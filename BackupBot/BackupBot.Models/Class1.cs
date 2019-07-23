@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GCBot.Data
+namespace BackupBot.Models
 {
     public class Class1
     {

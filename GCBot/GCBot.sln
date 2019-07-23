@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCBot", "GCBot\GCBot.csproj", "{A61DA9DE-F1E4-4C85-B5D1-14A0C53F9093}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GCBot", "GCBot\GCBot.csproj", "{A61DA9DE-F1E4-4C85-B5D1-14A0C53F9093}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCBot.Core", "GCBot.Core\GCBot.Core.csproj", "{6E76E174-CB1C-4DFA-A42D-1D6D02B2060B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GCBot.Core", "GCBot.Core\GCBot.Core.csproj", "{6E76E174-CB1C-4DFA-A42D-1D6D02B2060B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCBot.Data", "GCBot.Data\GCBot.Data.csproj", "{FCEF659B-A79C-459B-B839-8174F5A4AB23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GCBot.Data", "GCBot.Data\GCBot.Data.csproj", "{FCEF659B-A79C-459B-B839-8174F5A4AB23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCBot.Services", "GCBot.Services\GCBot.Services.csproj", "{2AE61F99-EFF4-459A-B7F0-443E200639E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GCBot.Services", "GCBot.Services\GCBot.Services.csproj", "{2AE61F99-EFF4-459A-B7F0-443E200639E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCBot.Core.Tests", "GCBot.Core.Tests\GCBot.Core.Tests.csproj", "{1C959114-1CBD-4EB4-83B2-6BD37C15BD8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GCBot.Core.Tests", "GCBot.Core.Tests\GCBot.Core.Tests.csproj", "{1C959114-1CBD-4EB4-83B2-6BD37C15BD8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCBot.Models", "GCBot.Models\GCBot.Models.csproj", "{392A9809-97E5-4B1B-8EEE-EAFB99E1990A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{1C959114-1CBD-4EB4-83B2-6BD37C15BD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C959114-1CBD-4EB4-83B2-6BD37C15BD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C959114-1CBD-4EB4-83B2-6BD37C15BD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392A9809-97E5-4B1B-8EEE-EAFB99E1990A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392A9809-97E5-4B1B-8EEE-EAFB99E1990A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392A9809-97E5-4B1B-8EEE-EAFB99E1990A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392A9809-97E5-4B1B-8EEE-EAFB99E1990A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

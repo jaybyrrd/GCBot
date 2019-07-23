@@ -1,0 +1,6 @@
+C:\Users\julia\Source\Repos\GCBot\GCBot\GCBot.Core.Tests\bin\Debug\netcoreapp2.2\GCBot.Core.Tests.deps.json
+C:\Users\julia\Source\Repos\GCBot\GCBot\GCBot.Core.Tests\bin\Debug\netcoreapp2.2\GCBot.Core.Tests.dll
+C:\Users\julia\Source\Repos\GCBot\GCBot\GCBot.Core.Tests\obj\Debug\netcoreapp2.2\GCBot.Core.Tests.csprojAssemblyReference.cache
+C:\Users\julia\Source\Repos\GCBot\GCBot\GCBot.Core.Tests\obj\Debug\netcoreapp2.2\GCBot.Core.Tests.csproj.CoreCompileInputs.cache
+C:\Users\julia\Source\Repos\GCBot\GCBot\GCBot.Core.Tests\obj\Debug\netcoreapp2.2\GCBot.Core.Tests.AssemblyInfoInputs.cache
+C:\Users\julia\Source\Repos\GCBot\GCBot\GCBot.Core.Tests\obj\Debug\netcoreapp2.2\GCBot.Core.Tests.AssemblyInfo.cs
