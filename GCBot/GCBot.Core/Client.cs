@@ -7,6 +7,7 @@ using System.IO;
 using System.Reflection;
 using System.Threading.Tasks;
 using BackupBot.Core.Backup;
+using GCBot.Core.Modules;
 
 namespace BackupBot.Core
 {
@@ -33,10 +34,16 @@ namespace BackupBot.Core
         {
             SocketClient.Log += Log;
             await RegisterCommandsAsync();
+            RegisterStaticMessageProcessors();
             await SocketClient.LoginAsync(Discord.TokenType.Bot, GetToken());
             await SocketClient.StartAsync();
 
             await Task.Delay(-1);
+        }
+
+        public void RegisterStaticMessageProcessors()
+        {
+            SocketClient.MessageReceived += StaticMessageProcessorFunctions.DabProcessorAsync;
         }
 
         public async Task RegisterCommandsAsync()
